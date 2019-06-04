@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import lxml
-import pdb;pdb.set_trace()
+
 
 players_dict = {}
 players=[]
